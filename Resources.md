@@ -11,7 +11,7 @@ public static void nameOfFunction(){
  //code
 };
 
-- La palabra public proviende de una de las características de la programación orientada a objetos que veremos más adelante. Por el momento nos limitaremos a poner todas las clases y todos los métodos en visibilidad pública.
+- La palabra public proviene de una de las características de la programación orientada a objetos que veremos más adelante. Por el momento nos limitaremos a poner todas las clases y todos los métodos en visibilidad pública.
 - La palabra static refiere a los tipos de clases o métodos dentro de la programación orientada a objetos que veremos más adelante. Por el momento nos limitaremos a definir todas las clases y todos los métodos de tipo estático. 
 - La palabra void refiere al tipo de dato que debe devolver el método, cuando no devuelve nada o cuando solo imprime en terminal, se usa la palabra reservada void.
 
